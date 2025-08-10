@@ -102,4 +102,37 @@ By the end of the project, the team will have a **working analytics platform** t
 - Automates data collection from multiple APIs.  
 - Stores and models data in a relational database.  
 - Produces actionable insights in an interactive Power BI dashboard.  
-- Demonstrates the ability to link environmental data with operational and agricultural decisions.  
+- Demonstrates the ability to link environmental data with operational and agricultural decisions.
+
+## **8. Interview Questions**
+
+1. **Data Acquisition**  
+   - How would you authenticate and handle API rate limits when working with the OpenWeather API?  
+
+2. **Data Modeling**  
+   - Can you explain your relational data model for combining weather, orders, customers, and products?  
+
+3. **Data Transformation**  
+   - How did you calculate the daily rainfall totals from the 3-hour forecast data?  
+
+4. **Automation**  
+   - How does Apache Airflow schedule and manage your data pipeline tasks?  
+
+5. **Performance Impact**  
+   - What trends did you observe between weather conditions and delivery performance in this project?  
+
+6. **Visualization**  
+   - Which visualizations in your Power BI dashboard provide the most value for operational decision-making and why?  
+
+7. **Agricultural Advisory**  
+   - How did you define and calculate a “planting window” in your analytics?  
+
+8. **Error Handling**  
+   - If one API source fails during ETL, how does your pipeline ensure data completeness and reliability?  
+
+9. **Scalability**  
+   - How would you modify your solution to handle 10× more cities or additional weather variables?  
+
+10. **Business Insight**  
+    - Based on your findings, what operational or agricultural recommendations would you give to the company to improve performance and reduce weather-related risks?  
+
