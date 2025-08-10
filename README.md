@@ -1,5 +1,4 @@
-### ****  
-**Capstone Project:** Kenya Weather-Aware E-Commerce & Agri-Logistics Dashboard  
+### **Capstone Project:** Kenya Weather-Aware E-Commerce & Agri-Logistics Dashboard  
 
 ---
 ## 1. Background / Problem Statement  
